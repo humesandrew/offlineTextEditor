@@ -27,7 +27,7 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: "OfflineTextEditor",
-        short_name: "JATE",
+        short_name: "jate",
         description: "",
         background_color: '#225ca3',
         theme_color: '#225ca3',
